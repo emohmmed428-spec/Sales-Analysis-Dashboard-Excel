@@ -101,9 +101,7 @@ The dataset includes:
 ---
 
 ## 🖼️ Dashboard Preview
-<p align="center">
-  <img src="dashboard/dashboard_final.png" width="800"/>
-</p>
+![Dashboard](Dashboard/Dashboard.png)
 
 ---
 
