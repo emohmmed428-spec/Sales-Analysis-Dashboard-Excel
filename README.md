@@ -101,7 +101,7 @@ The dataset includes:
 ---
 
 ## 🖼️ Dashboard Preview
-![Dashboard](main/Dashboard.png)
+![Dashboard](Sales-Analysis-Dashboard-Excel/Dashboard.png)
 
 ---
 
